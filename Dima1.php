@@ -4,3 +4,5 @@ function Dmitry()
 {
 	return "Lazarev";
 }
+
+$res = Dmitry();
