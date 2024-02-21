@@ -5,4 +5,7 @@ function Dmitry()
 	return "Lazarev";
 }
 
-$res = Dmitry();
+#$res = Dmitry();
+
+$double = Dmitry()." + ".Dmitry();
+print $double;
