@@ -12,12 +12,7 @@ print $double;
 
 function Das()
 {
-	return "Dasa";
+	return "Anudasa";
 }
 
-function Lazarev()
-{
-	return "Dmitry";
-}
-
-echo Lazarev();
+print Das();
