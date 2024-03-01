@@ -10,6 +10,11 @@ $res = Dmitry();
 $double = Dmitry()." + ".Dmitry();
 print $double;
 
+function Das()
+{
+	return "Dasa";
+}
+
 function Lazarev()
 {
 	return "Dmitry";
